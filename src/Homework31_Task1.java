@@ -84,7 +84,7 @@ public class Homework31_Task1{
             System.out.printf("The reason next month is '%s'%n", season.get(nextMonth));
             System.out.printf("It has %d days", monthDays.get(nextMonth));
         } else {
-            System.out.println("No such month: " + month); // Нет такого месяца
+            System.out.println("No such month: " + month);
         }
     }
 }
