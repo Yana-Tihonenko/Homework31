@@ -1,5 +1,4 @@
-
-#Task 1
+# Task 1
 Extend the Task2MonthsEnums program. Add another enum that will describe the seasons (winter, summer, spring, fall) and indicate which season the selected month belongs to.
 
 # Task 2* (optional)
